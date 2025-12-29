@@ -18,7 +18,7 @@ export default function About() {
             viewport={{ once: true, amount: 0.3 }}
           >
             <img
-              src="/images/hero.jpg"
+              src="/images/Hero.jpg"
               alt="Toko Kue Premium"
               className="w-full object-cover rounded-xl shadow-lg"
             />
@@ -82,7 +82,7 @@ export default function About() {
               className="bg-white rounded-xl overflow-hidden shadow-lg hover:shadow-xl transition"
             >
               <img
-                src="/images/hero.jpg"
+                src="/images/Hero.jpg"
                 alt="Red Velvet Classic"
                 className="w-full h-64 object-cover"
               />
@@ -109,7 +109,7 @@ export default function About() {
               className="bg-white rounded-xl overflow-hidden shadow-lg hover:shadow-xl transition"
             >
               <img
-                src="/images/hero.jpg"
+                src="/images/Hero.jpg"
                 alt="Chocolate Truffle"
                 className="w-full h-64 object-cover"
               />
@@ -136,7 +136,7 @@ export default function About() {
               className="bg-white rounded-xl overflow-hidden shadow-lg hover:shadow-xl transition"
             >
               <img
-                src="/images/hero.jpg"
+                src="/images/Hero.jpg"
                 alt="Cheese Cake Delight"
                 className="w-full h-64 object-cover"
               />

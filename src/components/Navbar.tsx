@@ -99,11 +99,11 @@ export default function Navbar() {
 
   const dropdownItems = {
     "/products": [
-      { label: "Brownies", href: "/#" },
-      { label: "Cookies", href: "/#" },
-      { label: "Bolu", href: "/#" },
-      { label: "Bawang", href: "/#" },
-      { label: "Pisang", href: "/#" },
+      { label: "Brownies", href: "/products" },
+      { label: "Cookies", href: "/products" },
+      { label: "Bolu", href: "/products" },
+      { label: "Bawang", href: "/products" },
+      { label: "Pisang", href: "/products" },
     ],
   };
 

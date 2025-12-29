@@ -3,7 +3,7 @@ import gsap from "gsap";
 
 export const useGSAP = (
   callback: (context: gsap.Context) => void,
-  dependencies: any[] = [],
+  dependencies: any[] = []
 ) => {
   const contextRef = useRef<gsap.Context | undefined>(undefined);
 
