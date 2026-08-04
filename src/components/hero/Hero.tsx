@@ -32,7 +32,7 @@ export default function Hero() {
             viewport={{ once: false, amount: 0.3 }}
           >
             <p className="text-lg  tracking-normal  text-white/80">
-              PT. Kue Mantab Lezat
+              PT. Test CI/CD
             </p>
 
             <HeroTitle />
